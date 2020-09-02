@@ -1,4 +1,4 @@
-const STUFF = process.env.NAME;
+const STUFF = process.env.STUFF;
 
 
 function sleep(ms) {
